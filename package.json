@@ -1,6 +1,6 @@
 {
   "name": "password-auth-agent",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/onenameio/password-auth-agent/issues"
   },
-  "homepage": "https://github.com/onenameio/password-auth-agent#readme"
+  "homepage": "https://github.com/onenameio/password-auth-agent#readme",
+  "devDependencies": {
+    "tape": "^4.2.1"
+  },
+  "dependencies": {}
 }

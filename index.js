@@ -279,3 +279,5 @@ PasswordAuthAgent.prototype.triggerLogin = function() {
         //this.loginOnPageWithoutLoginForm()
     }
 }
+
+module.exports = PasswordAuthAgent
