@@ -1,0 +1,19 @@
+{
+  "name": "password-auth-agent",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onenameio/password-auth-agent.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onenameio/password-auth-agent/issues"
+  },
+  "homepage": "https://github.com/onenameio/password-auth-agent#readme"
+}
